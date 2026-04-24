@@ -10,6 +10,4 @@ Download Dev Containers extenstion in Visual Studio Code
 2. Create a devcontainer.json file within the project
 3. Run Dev Containers: Reopen in Containers 
 4. Choose Node.js for template
-5. Run Dev Containers: Clone Repository in Container Volume
-6. Choose github and sign in
-7. Choose your repository
+5.
