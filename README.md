@@ -1,5 +1,6 @@
 # References
 https://code.visualstudio.com/docs/devcontainers/create-dev-container#_dockerfile
+https://code.visualstudio.com/docs/devcontainers/containers
 # Pre requisites:
 Install Docker https://docs.docker.com/desktop/
 Install VS Code: https://code.visualstudio.com/
